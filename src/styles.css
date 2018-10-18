@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(238, 236, 236);
+}
+
+.todo-title,
+.todos {
+  font-weight: 500;
+}
+
+.todos {
+  font-size: 3rem;
+}
+
+.row .col.s12 {
+  padding: 0;
+}

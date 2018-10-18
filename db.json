@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Learn JavaScript",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "task": "Learn React",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "task": "Build Apps",
+      "isCompleted": false
+    },
+    {
+      "id": 4,
+      "task": "Get Job",
+      "isCompleted": false
+    },
+    {
+      "task": "Stop",
+      "isCompleted": true,
+      "id": 5
+    }
+  ]
+}
