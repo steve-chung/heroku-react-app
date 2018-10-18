@@ -11,7 +11,7 @@
     "build": "webpack",
     "dev": "webpack-dev-server",
     "watch": "npm-run-all --parallel start dev",
-    "postinstall": "run dev",
+    "postinstall": "npm run dev",
     "heroku-prebuild": "echo This runs before Heroku installs your dependencies.",
     "heroku-postbuild": "echo This runs afterwards."
   },
